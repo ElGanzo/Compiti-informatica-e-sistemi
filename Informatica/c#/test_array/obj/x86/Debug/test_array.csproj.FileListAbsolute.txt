@@ -1,0 +1,4 @@
+C:\Users\lorenzo.gentili\Desktop\Programmi visual studio\c#\test_array\bin\Debug\test_array.exe
+C:\Users\lorenzo.gentili\Desktop\Programmi visual studio\c#\test_array\bin\Debug\test_array.pdb
+C:\Users\lorenzo.gentili\Desktop\Programmi visual studio\c#\test_array\obj\x86\Debug\test_array.exe
+C:\Users\lorenzo.gentili\Desktop\Programmi visual studio\c#\test_array\obj\x86\Debug\test_array.pdb
